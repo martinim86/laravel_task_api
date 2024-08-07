@@ -2,4 +2,4 @@
 git clone
 composer update
 php artisam serve
-http://localhost:8000/api/documentation#/
+localhost:8000/api/documentation
